@@ -230,7 +230,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
 
 def data_view(df):
-    wish=input('\nDo you wish to view 5 rows of raw data? Please enter yes or no\n')
+    wish=input("\nIf you wish to view 5 rows of data,enter'yes',else 'no'\n")
     while wish == 'yes':
         print(df.head())
         wish=input('\nDo you wish to view 5 rows of raw data? Please enter yes or no\n')
