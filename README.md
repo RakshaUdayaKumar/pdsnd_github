@@ -1,13 +1,16 @@
 **Date created**
+
 23 April 2020
 
 **Project Title**
+
 Explore US Bikeshare Data
 
 **Description**
 
 The Bikeshare project deals with data related to three cities in the United States--Chicago, New York City and Washington.
 An interactive code has been written to answer the below mentioned questions:
+
 1. What is the most common month in terms of travel?
 2. What is the most common day of the week for the chosen city in terms of travel?
 3. What is the most common hour of the day in the city in terms of travel?
@@ -27,6 +30,7 @@ An interactive code has been written to answer the below mentioned questions:
 4. bikeshare.py
 
 **Credits**
+
 1. https://www.w3schools.com/python/ref_func_input.asp
 2. https://www.w3schools.com/python/python_while_loops.asp
 3. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html
