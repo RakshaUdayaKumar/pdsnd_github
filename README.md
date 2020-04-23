@@ -8,15 +8,16 @@ Explore US Bikeshare Data
 
 The Bikeshare project deals with data related to three cities in the United States--Chicago, New York City and Washington.
 An interactive code has been written to answer the below mentioned questions:
-a) What is the most common month in terms of travel?
-b) What is the most common day of the week for the chosen city in terms of travel?
-c) What is the most common hour of the day in the city in terms of travel?
-d) Which is the most popular start station?
-e) Which is the most popular end station?
-f) Which is the most popular combination of start and end station?
-g) What are the total and average travel times?
-h) What are the type and number of users (Subscribers or Customers)?
-i) What is the gender and the count of users?k)What is the birth year of the most recent, earliest and most    common users?
+*What is the most common month in terms of travel?
+*What is the most common day of the week for the chosen city in terms of travel?
+*What is the most common hour of the day in the city in terms of travel?
+*Which is the most popular start station?
+*Which is the most popular end station?
+*Which is the most popular combination of start and end station?
+*What are the total and average travel times?
+*What are the type and number of users (Subscribers or Customers)?
+*What is the gender and the count of users?
+*What is the birth year of the most recent, earliest and most    common users?
 
 **Files used**
 chicago.csv
