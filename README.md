@@ -1,10 +1,13 @@
 **Date created**
+
 23 April 2020
 
 **Project Title**
+
 Explore US Bikeshare Data
 
 **Description**
+
 The Bikeshare project deals with data related to three cities in the United States--Chicago, New York City and Washington.
 An interactive code has been written to answer the below mentioned questions:
 1. What is the most common month in terms of travel?
