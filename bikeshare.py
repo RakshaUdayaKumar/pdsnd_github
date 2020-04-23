@@ -135,8 +135,6 @@ def time_stats(df):
     print('-'*40)
 
 
-# In[6]:
-
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
