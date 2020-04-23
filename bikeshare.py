@@ -52,7 +52,7 @@ def get_filters():
         print('-'*40)
         return city, month, day
     except Exception as e:
-        print('An error with your inputs occured: {}'.format(e))
+        print('There was an error that occurred: {}'.format(e))
 
 
 # In[4]:
